@@ -14,7 +14,7 @@ const Navbar:React.FC<NavbarProps> = ({categories}) =>{
                     {category}
                 </a>
             ))}
-            <a href="#" className="text-black bg-white rounded full p-2"><FaArrowDown/></a>
+            <a href="https://drive.google.com/file/d/1I5aJwNGhagHAbYZ2ULxRwEDgmdDKLFRY/view?usp=sharing" className="text-black bg-white rounded full p-2"><FaArrowDown/></a>
         </div>
     )
 }

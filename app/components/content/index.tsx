@@ -14,7 +14,7 @@ const Content: React.FC<ContentProps> = ({ headline, text }) => {
                 <div className="border-b border-white h-5"></div>
                 <div className='text-headline text mt-4'><span className="text-pink-500">export</span> <span className="text-blue-500">const</span> <span className="text-yellow-100">{headline}</span> =&gt; &#123; </div>
                 <div className='text-text'>{text}</div>
-                <a href="https://drive.google.com/file/d/1I5aJwNGhagHAbYZ2ULxRwEDgmdDKLFRY/view?usp=sharing">&#125;</a>
+                <div>&#125;</div>
             </div>
         </div>
     );

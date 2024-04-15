@@ -18,7 +18,7 @@ export default function Home() {
           <div className='ml-4'>
             <div><span className="text-blue-500">const</span> <span className="text-blue-200">name</span> = <span className="text-orange-300">&quot;Adrian Dan&quot;</span>;</div>
             <div><span className="text-blue-500">const</span> <span className="text-blue-200">phoneNumber</span> = <span className="text-orange-300">&quot;+43-660-183-2293&quot;</span>;</div>
-            <div><span className="text-blue-500">const</span> <span className="text-blue-200">languege</span> = <span className="text-orange-300">&quot;English, German & Romanian&quot;</span>;</div>
+            <div><span className="text-blue-500">const</span> <span className="text-blue-200">language</span> = <span className="text-orange-300">&quot;English, German & Romanian&quot;</span>;</div>
             <div><span className="text-blue-500">const</span> <span className="text-blue-200">gitHubAccount</span> = <a href="https://github.com/Armadox" className='underline text-blue-600 hover:text-blue-500'>https://github.com/Armadox</a>;</div>
             <br/>
             <div><span className="text-blue-500">const</span> <span className="text-blue-200">bestSkills</span> = <span className="text-orange-300">&quot;HTML, CSS, Javascript (React& NextJS)&quot;</span>;</div>
