@@ -114,7 +114,7 @@ export default function Home() {
             <div className="ml-5">
             <span className="text-pink-500">title</span> : <span className="text-orange-300">&quot;WordPress website with custom theme&quot;</span>,<br/>
             <span className="text-pink-500">description</span> : <span className="text-pink-500">[</span>
-              <span className="text-orange-300">&quot;Dynamic Wordpress&#47;WooCommerce website that was built with Wordpress and has it's own self made theme.&quot;</span>,<br/> 
+              <span className="text-orange-300">&quot;Dynamic Wordpress&#47;WooCommerce website that was built with Wordpress and has its own self made theme.&quot;</span>,<br/> 
               <span className="text-orange-300">&quot;The custom theme was built by reverse engineering and editing Wordpress php files.&quot;</span>,<br/>
               <span className="text-orange-300">&quot;Website was built by mainly using Php, Javascript, jQuery, Bootstrap-5 and CSS.&quot;</span>,<br/>
               <span className="text-orange-300">&quot;Functional AJAX cart that updates every time you add something in the cart.&quot;</span>,<br/>
