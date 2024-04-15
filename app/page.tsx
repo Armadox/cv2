@@ -98,6 +98,7 @@ export default function Home() {
           <div><span className="text-blue-500">const</span> <span className="text-blue-200">project1</span> = &#123;
             <div className="ml-5">
             <span className="text-pink-500">title</span> : <span className="text-orange-300">&quot;NextJS E-Shop website&quot;</span>,<br/>
+            <span className="text-pink-500">site</span> : <a href="https://gym-and-more.at" className="text-blue-300 underline">gym-and-more.at</a>,<br/>
             <span className="text-pink-500">description</span> : <span className="text-pink-500">[</span>
               <span className="text-orange-300">&quot;Fully functioning admin panel with CRUD.&quot;</span>,<br/> 
               <span className="text-orange-300">&quot;Fast working website built using NextJS, Prisma, MongoDB.&quot;</span>,<br/>
